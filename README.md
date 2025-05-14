@@ -13,7 +13,7 @@ WattWise is a gamified web platform designed to reward users for reducing electr
 ---
 
 ## 🚀 Live Site
-👉 [https://wattwiseenergy.netlify.app/incentives](https://wattwiseenergy.netlify.app/incentives)
+👉 [https://wattwiseenergy.netlify.app](https://wattwiseenergy.netlify.app)
 
 ---
 
